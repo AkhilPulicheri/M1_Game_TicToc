@@ -135,6 +135,7 @@ int filled_up(char *cont[3][3])
 					}
 				
 			}
+			 //run the code using make commond
 	}
 	
 	//check is_filled array:
