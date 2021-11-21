@@ -14,7 +14,7 @@ In this game, there is a board with nxn squares. In our game, it is 3 x 3 square
 - It helps to improve logical and mental ability.
 - It helps to develop spatial skills
 
-**WEAKNESS:**
+**WEAKNESS:**
 
 This game is addictive.
 
