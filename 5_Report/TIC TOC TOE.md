@@ -1,4 +1,4 @@
-# TIC TOC TOE:-
+# TIC TOC TOE
 
 Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
@@ -9,7 +9,6 @@ Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for tw
 - The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (&#39;O&#39; or &#39;X&#39;).
 - If no one wins, then the game is said to be draw
 
-#
 
 
 # IMPLEMENTATION
@@ -24,19 +23,19 @@ Winning Strategy – An Interesting Fact
 
 If both the players play optimally then it is destined that you will never lose (&quot;although the match can still be drawn&quot;). It doesn&#39;t matter whether you play first or second.In another ways – &quot; Two expert players will always draw &quot;. Isn&#39;t this interesting ?
 
-# SWOT ANALYSIS:
+# SWOT ANALYSIS
 
-STRENGTH:
+STRENGTH
 
 - It is fun type game between the two players which gives relief from stress.
 - It helps to improve logical and mental ability.
 - It helps to develop spatial skills
 
-WEAKNESS:
+WEAKNESS
 
 This game is addictive.
 
-OPPORTUNITIES:
+OPPORTUNITIES
 
 It is a computer gamming
 
@@ -46,7 +45,7 @@ Game can Crash due to some technical errors.
 
 Game may end with Draw.
 
-# 4W&#39;s:
+# 4W&#39;s
 
 WHO
 
@@ -60,17 +59,17 @@ WHY
 
 This project can easily teach beginners and this gives relief to them.
 
-# 1H:
+# 1H
 
 HOW
 
 This project is implemented by using loops, function call and other functionalities of C.
 
-# TOOLS:
+# TOOLS
 
 Vs Code with Some Extensions like C/C++.
 
-# HIGH LEVEL REQUIREMENTS (HLR):
+# HIGH LEVEL REQUIREMENTS (HLR)
 
 HLR1:- Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
 
@@ -84,6 +83,6 @@ HLR5:- In the game The player who score the three symbols in a row will win.
 
 HLR6:- Once the game is over the player can choose whether the player will leave or will continue.
 
-# LOWER LEVEL REQUIRMENTS (LLR):-
+# LOWER LEVEL REQUIRMENTS (LLR)
 
 LLR1:- Name of the Player
