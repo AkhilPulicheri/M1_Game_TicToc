@@ -4,10 +4,10 @@ Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for tw
 
 # RULES OF THE GAME
 
-- The game is to be played between two people (in this program between Player 1 and Player 2).
-- One of the player chooses &#39;O&#39; and the other &#39;X&#39; to mark their respective cells.
-- The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (&#39;O&#39; or &#39;X&#39;).
-- If no one wins, then the game is said to be draw
+The game is to be played between two people (in this program between Player 1 and Player 2).
+One of the player chooses &#39;O&#39; and the other &#39;X&#39; to mark their respective cells.
+The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (&#39;O&#39; or &#39;X&#39;).
+If no one wins, then the game is said to be draw
 
 
 
@@ -27,9 +27,9 @@ If both the players play optimally then it is destined that you will never lose 
 
 STRENGTH
 
-- It is fun type game between the two players which gives relief from stress.
-- It helps to improve logical and mental ability.
-- It helps to develop spatial skills
+It is fun type game between the two players which gives relief from stress.
+It helps to improve logical and mental ability.
+It helps to develop spatial skills
 
 WEAKNESS
 
