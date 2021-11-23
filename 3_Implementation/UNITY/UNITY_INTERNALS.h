@@ -1,3 +1,14 @@
+/**
+ * @file UNITY_INTERNALS.h
+ * @author Akhil Pulicheri
+ * @brief A program to play tictoctoe game.
+ * @version 0.1
+ * @date 2021-11-23
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 
 #ifndef UNITY_INTERNALS_H
 #define UNITY_INTERNALS_H
