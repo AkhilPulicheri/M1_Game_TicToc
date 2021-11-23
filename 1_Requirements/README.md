@@ -1,9 +1,9 @@
-# TIC TOC TOE
+TIC TOC TOE
 
 Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
 
-# SWOT ANALYSIS
+SWOT ANALYSIS
 
 STRENGTH:
 
@@ -39,17 +39,17 @@ WHY
 
 This project can easily teach beginners and this gives relief to them.
 
-# 1H
+1H
 
 HOW
 
 This project is implemented by using loops, function call and other functionalities of C.
 
-# TOOLS
+TOOLS
 
 Vs Code with Some Extensions like C/C++.
 
-# HIGH LEVEL REQUIREMENTS (HLR)
+HIGH LEVEL REQUIREMENTS (HLR)
 
 HLR1:- Player Should have internet access. And should able to open any IDE like VS code, Eclipse etc….
 
@@ -63,6 +63,6 @@ HLR5:- In the game The player who score the three symbols in a row will win.
 
 HLR6:- Once the game is over the player can choose whether the player will leave or will continue.
 
-# LOWER LEVEL REQUIRMENTS (LLR)
+LOWER LEVEL REQUIRMENTS (LLR)
 
 LLR1:- Name of the Player
