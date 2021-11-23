@@ -7,9 +7,9 @@ Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for tw
 
 STRENGTH:
 
-- It is fun type game between the two players which gives relief from stress.
-- It helps to improve logical and mental ability.
-- It helps to develop spatial skills
+It is fun type game between the two players which gives relief from stress.
+It helps to improve logical and mental ability.
+It helps to develop spatial skills
 
 WEAKNESS
 
