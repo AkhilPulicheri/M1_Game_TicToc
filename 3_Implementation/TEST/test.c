@@ -1,5 +1,5 @@
 /**
- * @file game.h
+ * @file test.h
  * @author Akhil Pulicheri
  * @brief A program to play tictoctoe game.
  * @version 0.1
