@@ -11,7 +11,7 @@ Any of the diagonal rows
 The user would be prompted with a message depicting whether the user won, lost or the match be a draw.
 
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/9197075a610c409c872d7c184f2f7e4d)]
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/9197075a610c409c872d7c184f2f7e4d)
 ![Codiac Badge](https://api.codiga.io/project/29855/score/svg)
 
 ![Codiac Badge](https://api.codiga.io/project/29855/status/svg)
